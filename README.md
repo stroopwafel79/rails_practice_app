@@ -1,5 +1,3 @@
-THIS IS A TEST
-
 # Ruby on Rails Tutorial
 
 ## "hello, world!"
