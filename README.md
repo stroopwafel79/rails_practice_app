@@ -7,3 +7,5 @@ This is the first application for the
 by [Michael Hartl](https://www.michaelhartl.com/). Hello, world!
 
 Master edit 1
+
+Master edit 2
